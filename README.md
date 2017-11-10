@@ -1,4 +1,4 @@
-* Project is not complete *
+*Project is not complete*
 
 # gform_to_typeform
 Converts Google forms to Typeforms
