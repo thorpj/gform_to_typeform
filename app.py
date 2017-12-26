@@ -3,9 +3,9 @@ from pprint import pprint
 import quickstart
 
 
-test_id = "12t8I-ZEVtqp9acgFHbHWrjoez6e95fAQ"
-rflan_id = "0B6Mq9VEROVC-OWY4MTU3NjctZDI1Ny00Nzg1LWE4YWYtZDg0MzJiZjA3ZGM3"
-data = quickstart.main("main", test_id)
+test_id ='' 
+rflan_id = ''
+data = quickstart.main("main", '')
 
 # try:
 # data = data.decode('utf-8')
